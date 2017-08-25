@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=xterm
+Type=Application
+NoDisplay=true

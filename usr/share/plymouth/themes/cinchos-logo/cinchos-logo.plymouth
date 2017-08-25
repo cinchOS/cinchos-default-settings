@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=cinchOS Logo
+Description=A theme that features an animated cinchOS logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cinchos-logo
+ScriptFile=/usr/share/plymouth/themes/cinchos-logo/cinchos-logo.script

@@ -1,0 +1,5 @@
+usr/share/backgrounds
+usr/share/gnome
+usr/share/gnome-background-properties
+usr/share/xul-ext/ubufox
+debian/60-gnome.conf /usr/share/lightdm/lightdm.conf.d/
